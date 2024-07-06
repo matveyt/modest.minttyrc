@@ -1,0 +1,26 @@
+# "modest" (light) colour theme for mintty
+# source: https://github.com/matveyt/modest.minttyrc
+# Unlicense https://unlicense.org
+
+BackgroundColour=245,245,220
+CursorColour=16,52,166
+ForegroundColour=16,52,166
+
+Black=22,22,29
+BoldBlack=94,113,106
+Red=178,34,34
+BoldRed=238,0,0
+Green=116,195,101
+BoldGreen=124,252,0
+Yellow=152,105,96
+BoldYellow=218,165,32
+Blue=16,52,166
+BoldBlue=100,149,237
+Magenta=153,50,204
+BoldMagenta=218,112,214
+Cyan=32,178,170
+BoldCyan=0,255,255
+White=178,190,181
+BoldWhite=245,245,220
+
+# vim: ft=cfg
